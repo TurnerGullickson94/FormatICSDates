@@ -9,7 +9,7 @@
  *  @author Hausi M.
  *  @author Juan G.
  *  @author Saasha J.
- *  @author STUDENT_NAME
+ *  @author Turner Gullickson
  *
  */
 
